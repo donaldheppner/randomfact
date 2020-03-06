@@ -1,1 +1,6 @@
 theme: jekyll-theme-hacker
+
+title: randomfact.com
+description: A site for hosting the side-projects of Don Heppner
+show_downloads: false
+show_github: false
