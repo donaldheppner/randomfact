@@ -1,2 +1,0 @@
-- [donaldheppner.dev](https://donaldheppner.dev): a blog.
-- [TinyStock](https://tinystock.randomfact.com): A clean, easy-to-read 1x1 widget for Android allowing you to track your favorite stock or index from your home screen.
